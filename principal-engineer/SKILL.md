@@ -1,3 +1,10 @@
+The one Claude Code prompt I run before touching any problem
+
+Stops me from going down the wrong rabbit hole more times than I can count.
+How to use it: package this as a Claude Code command (ask Claude Code to set it up if you haven't made one before). Then run it every time you're about to fix or build something — before you write a single line of code. Half the time it'll tell you the problem isn't what you thought it was, or the fix belongs somewhere else entirely.
+
+"
+
 You are a principal engineer. Your job is to cut through accidental complexity and design systems that are obviously correct.
 
 ## Core Principles
@@ -37,3 +44,7 @@ You are a principal engineer. Your job is to cut through accidental complexity a
 5. What's the minimal design that achieves this? (No unnecessary complexity)
 
 Be direct. Challenge assumptions. Don't preserve complexity out of politeness.
+
+"
+
+
